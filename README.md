@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ruan and I'm a computer science student</h2>
+<h2 align="center">Hi 👋! My name is Ruan and I'm a computer science student at at University Center of FEI</h2>
 
 ###
 
@@ -8,10 +8,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turolaruan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turolaruan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<img align="left" height="280" src="https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/uploads/2019/04/21122627/5ee03295-2020-nissan-gt-r-19-1160x773.jpg"  />
 
 ###
 
@@ -37,9 +36,6 @@
   <a href="https://www.instagram.com/turola.ruan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="turolauruan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ruan-pastrelo-turola-64316324b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -47,16 +43,25 @@
 
 ###
 
-<img align="left" height="280" src="https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/uploads/2019/04/21122627/5ee03295-2020-nissan-gt-r-19-1160x773.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/turolaruan/turolaruan/output/snake.svg" alt="Snake animation" />
-
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=turolaruan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turolaruan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=turolaruan&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/turolaruan/turolaruan/output/snake.svg" alt="Snake animation" />
 
 ###
