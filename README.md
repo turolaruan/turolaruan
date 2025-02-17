@@ -53,8 +53,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=turolaruan&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ###
