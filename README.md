@@ -10,7 +10,6 @@
 
 <br clear="both">
 
-<img align="left" height="280" src="https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/uploads/2019/04/21122627/5ee03295-2020-nissan-gt-r-19-1160x773.jpg"  />
 
 ###
 
